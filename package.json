@@ -2,7 +2,7 @@
   "name": "hardhat-project",
   "devDependencies": {
     "@fast-csv/parse": "^4.3.6",
-    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
     "@nomiclabs/hardhat-etherscan": "^3.1.8",
     "@nomiclabs/hardhat-waffle": "^2.0.6",
     "@typechain/ethers-v5": "^7.2.0",
