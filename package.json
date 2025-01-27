@@ -30,7 +30,7 @@
     "solhint": "^5.0.5",
     "solidity-coverage": "^0.8.14",
     "ts-node": "^10.9.2",
-    "typechain": "^5.2.0",
+    "typechain": "^8.3.2",
     "typescript": "^5.7.3"
   },
   "dependencies": {
