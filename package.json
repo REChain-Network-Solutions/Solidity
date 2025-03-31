@@ -7,7 +7,7 @@
     "@nomiclabs/hardhat-waffle": "^2.0.6",
     "@typechain/ethers-v5": "^11.1.2",
     "@typechain/hardhat": "^9.1.0",
-    "@types/chai": "^5.2.0",
+    "@types/chai": "^5.2.1",
     "@types/mocha": "^10.0.10",
     "@types/node": "^22.13.10",
     "@typescript-eslint/eslint-plugin": "^8.27.0",
