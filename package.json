@@ -22,7 +22,7 @@
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-promise": "^7.2.1",
     "ethereum-waffle": "^4.0.10",
-    "ethers": "^6.15.0",
+    "ethers": "^6.16.0",
     "hardhat": "^2.27.1",
     "hardhat-gas-reporter": "^2.2.3",
     "prettier": "^3.7.4",
